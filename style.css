@@ -3,5 +3,13 @@ table{
     line-height: 1.5;
     border-color: cornflowerblue;
     border-style: solid;
-    
+
+}
+thead{
+    background-color: black;
+    color:white;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    border: 2px solid burlywood;
 }
